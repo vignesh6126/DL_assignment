@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1tnN35eaxyfafx5UnURDNcXVRzfW9ocvw
 """
 
-pip install transformers datasets torch
-
 with open("rihanna.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
